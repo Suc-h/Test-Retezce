@@ -1,0 +1,10 @@
+G:\PRG\c#\test retezce\test retezce\bin\Debug\test retezce.exe.config
+G:\PRG\c#\test retezce\test retezce\bin\Debug\test retezce.exe
+G:\PRG\c#\test retezce\test retezce\bin\Debug\test retezce.pdb
+G:\PRG\c#\test retezce\test retezce\obj\Debug\test retezce.csprojAssemblyReference.cache
+G:\PRG\c#\test retezce\test retezce\obj\Debug\test_retezce.Form1.resources
+G:\PRG\c#\test retezce\test retezce\obj\Debug\test_retezce.Properties.Resources.resources
+G:\PRG\c#\test retezce\test retezce\obj\Debug\test retezce.csproj.GenerateResource.cache
+G:\PRG\c#\test retezce\test retezce\obj\Debug\test retezce.csproj.CoreCompileInputs.cache
+G:\PRG\c#\test retezce\test retezce\obj\Debug\test retezce.exe
+G:\PRG\c#\test retezce\test retezce\obj\Debug\test retezce.pdb
